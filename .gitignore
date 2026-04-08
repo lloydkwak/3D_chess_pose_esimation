@@ -1,5 +1,3 @@
 __pycache__/
 *.pyc
 .venv/
-output.mp4
-image/
