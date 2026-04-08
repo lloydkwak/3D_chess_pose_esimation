@@ -23,6 +23,14 @@ python overlay_queen.py
 
 Output video: `output.mp4`
 
+## Demo
+
+| | |
+|---|---|
+| ![Snapshot 1](https://github.com/lloydkwak/3D_chess_pose_esimation/blob/main/image/1.png) | ![Snapshot 2](https://github.com/lloydkwak/3D_chess_pose_esimation/blob/main/image/2.png) |
+| ![Snapshot 3](https://github.com/lloydkwak/3D_chess_pose_esimation/blob/main/image/3.png) | ![Snapshot 4](https://github.com/lloydkwak/3D_chess_pose_esimation/blob/main/image/4.png) |
+| ![Snapshot 5](https://github.com/lloydkwak/3D_chess_pose_esimation/blob/main/image/5.png) | ![Snapshot 6](https://github.com/lloydkwak/3D_chess_pose_esimation/blob/main/image/6.png) |
+
 ## Quick Configuration
 
 Edit these constants at the top of `overlay_queen.py`:
